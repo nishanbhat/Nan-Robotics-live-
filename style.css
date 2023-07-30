@@ -1846,6 +1846,13 @@ h2 {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .partner-enroll .right-container {
+    width: 200px;
+    height: 100px;
+  }
+}
+
 /* ----------PARTNER/ENROL---------- */
 
 /* ----------BLOGS---------- */
