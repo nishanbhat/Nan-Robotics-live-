@@ -304,8 +304,6 @@ nav {
     min-width: 200px;
     /* transform: translate(10%, -60%); */
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  }
-  .dropdown-content {
     padding: 5px !important;
   }
 }
@@ -354,6 +352,14 @@ nav {
   .dropdown__arrow img {
     margin-left: 5px;
     margin-bottom: 10px;
+  }
+  .hz-menu ul {
+    padding: 20px 0 20px 50px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    width: 50%;
+  }
+  .dropdown-content {
+    min-width: 100px;
   }
 }
 
@@ -947,6 +953,10 @@ h2 {
   .who-we-are .left-container h2 {
     font-size: 16px !important;
     text-align: center;
+  }
+  .button {
+    padding: 5px 10px;
+    font-size: 8px;
   }
 }
 
@@ -1909,6 +1919,9 @@ h2 {
   }
   .partner-enroll h1 {
     font-size: 16px;
+  }
+  .partner-enroll .left-container {
+    padding: 50px;
   }
 }
 
