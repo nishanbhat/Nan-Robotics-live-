@@ -644,7 +644,7 @@ iframe {
 
 .top-left {
   position: absolute;
-  top: -3%;
+  top: -2%;
   left: 0;
 }
 
@@ -666,7 +666,7 @@ iframe {
   position: relative;
 }
 
-.text {
+.circle .text {
   position: absolute;
   right: 5%;
   top: 15%;
@@ -682,7 +682,7 @@ iframe {
   right: 148%;
 }
 
-.text h4 {
+.circle .text h4 {
   margin: 10px 0;
 }
 
@@ -827,7 +827,7 @@ iframe {
     right: 96%;
     top: 0%;
   }
-  .text {
+  .circle .text {
     position: absolute;
     right: 10%;
     top: 9%;
@@ -1035,7 +1035,7 @@ iframe {
     right: 93%;
     top: -3%;
   }
-  .text {
+   .circle .text {
     position: absolute;
     right: 5%;
     top: 15%;
@@ -1079,7 +1079,7 @@ iframe {
     width: 30px;
     height: 10px;
   }
-  .text h4 {
+   .circle .text h4 {
     margin: 5px 0;
   }
   .rectangle-dots {
@@ -1118,7 +1118,7 @@ iframe {
 #footer {
   display: flex;
   align-items: flex-end;
-  background-image: url("footer-bg.png");
+  background-image: url("/images/footer-bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
