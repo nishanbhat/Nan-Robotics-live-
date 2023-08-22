@@ -359,7 +359,7 @@ nav {
     width: 50%;
   }
   .dropdown-content {
-    min-width: 100px;
+    min-width: 125px;
   }
 }
 
